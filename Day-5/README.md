@@ -15,7 +15,7 @@ Output:
 
 1. Store the first element in a temporary variable.
 2. Shift all remaining elements one position to the left.
-3. Place the first element at the last position.
+3. Place the first element at the last position.    
 
 ## Algorithm
 
