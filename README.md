@@ -8,11 +8,6 @@ Welcome to my Data Structures & Algorithms (DSA) learning journey in Java.
 - Improve problem-solving skills.
 - Prepare for coding interviews and placements.
 
-## 📅 Progress
-
-| Day | Topic | Problem | Status |
-|-----|-------|---------|--------|
-| Day 1 | Arrays | Largest Element in an Array | ✅ |
 
 ---
 ⭐ Stay tuned for daily updates!
