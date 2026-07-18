@@ -5,7 +5,7 @@
 Given an array of size N and an integer K, rotate the array to the left by K positions.
 
 ### Example
-
+    
 Input:
 ```
 arr = [1,2,3,4,5]
